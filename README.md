@@ -25,3 +25,19 @@
 - [RSA加密](./docs/python加密/RSA加密.md)
 - [x64hash128加密](./docs/python加密/x64hash128加密.md)
 - [根据文字生成二维码图片](./docs/python加密/根据文字生成二维码图片.md)
+
+### 浏览器使用
+
+- [插件Pasty-浏览器批量打开网址](./docs/浏览器使用/插件Pasty-浏览器批量打开网址.md)
+- [插件-v_jstools](./docs/浏览器使用/插件-v_jstools.md)
+- [插件XpathHelperPlus-生成xpath](./docs/浏览器使用/插件XpathHelperPlus-生成xpath.md)
+- [插件SwitchyOmega-切换代理](./docs/浏览器使用/插件SwitchyOmega-切换代理.md)
+- [认识浏览器插件](./docs/浏览器使用/认识浏览器插件.md)
+- [开发一个简易的代理插件](./docs/浏览器使用/开发一个简易的代理插件.md)
+- [实现自由切换代理和ua](./docs/浏览器使用/实现自由切换代理和ua.md)
+- [浏览器开发者工具使用技巧总结](./docs/浏览器使用/浏览器开发者工具使用技巧总结.md)
+- [禁止chrome更新与chrome同时多开高低版本分身](./docs/浏览器使用/禁止chrome更新与chrome同时多开高低版本分身.md)
+
+### 爬虫
+
+- [爬虫基础-URL相关概念](./docs/爬虫/爬虫基础-URL相关概念.md)
