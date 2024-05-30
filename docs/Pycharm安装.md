@@ -1,6 +1,6 @@
 # Pycharm安装
 
-1. 在这里选择社区版下载即可，一般来说python编写够用了，如果安装专业版本也可以，也是如下步骤，安装完了后看这篇[文章](./docs/Jetbrains全家桶激活.md)
+1. 在这里选择社区版下载即可，一般来说python编写够用了，如果安装专业版本也可以，也是如下步骤，安装完了后看这篇[文章](./Jetbrains全家桶激活.md)
 
 ![img](https://cdn.jsdelivr.net/gh/Killer-89757/PicBed/images/2024%2F05%2FFuJNkbfpyJSB4HkYdyqE1cXTZD_o-06605b.png)
 
